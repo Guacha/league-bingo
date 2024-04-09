@@ -13,8 +13,10 @@
 			<span class="text-primary-500">Try the bingo challenge</span>
 		</h1>
 		<p class="text-gray-500 max-w-xl mx-auto leading-relaxed">
-			It is a long established fact that a reader will be distracted by the readable content of a
-			page when looking at its layout. The point of using Lorem Ipsum
+			LoL bingo is a new way to play league and interact with your friends. It's a fun and
+			challenging way to play the game you love/hate. You can play with your friends or by yourself.
+			It's a great way to test your skills and have fun at the same time. So why not give it a try?
+			You won't be disappointed!
 		</p>
 	</div>
 	<div class="mt-12 justify-center items-center space-y-3 sm:space-x-6 sm:space-y-0 sm:flex">
